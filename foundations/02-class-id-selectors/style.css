@@ -1,5 +1,9 @@
 .odd{
     background-color: #ea6868;
     font-family: "DejaVu Sans", Verdana, "Geneva", Tahoma, sans-serif;
+}
 
+#dos{
+    color: #2a1ddc;
+    font-size: 36px;
 }
