@@ -58,6 +58,6 @@ ul {
 
 .right-links {
   display: flex;
-  gap: 8px;
+  gap: 16px;
   margin-left: auto;
 }
