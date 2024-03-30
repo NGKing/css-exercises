@@ -15,15 +15,17 @@ img {
   margin-bottom: 32px;
 }
 
-.plants {
+.plants-all {
   display: flex;
   justify-content: space-around;
   gap: 52px;
 }
 
+
 .text {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* do not edit this footer */
