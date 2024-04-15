@@ -40,6 +40,7 @@ input {
   bottom: 0;
   width: 100%;
   height: 3rem;
+  background-color: rgba(86, 86, 86, 0.126);
 }
 
 .left-links {
