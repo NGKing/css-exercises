@@ -31,6 +31,7 @@ input {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
 }
 
 .footer {
@@ -61,7 +62,7 @@ input {
   flex-direction: column;
   align-items: center;
   padding-bottom: 3rem;
-  margin-top: 6rem;
+  margin-top: 15rem;
 }
 
 ul {
